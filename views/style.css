@@ -4,14 +4,17 @@ body {
 
 button {
     font-family: 'Ubuntu';
+    color: greenyellow;
 }
 
 input[type='text'] {
     font-family: 'Ubuntu';
+    
 }
 
 input[type='submit'] {
     cursor: pointer;
+    color: blue;
 }
 
 a {
